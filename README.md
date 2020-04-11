@@ -1,1 +1,1 @@
-# SpringCloudStudy
+# Spring Cloud Showcase
